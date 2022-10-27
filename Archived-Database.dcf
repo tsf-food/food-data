@@ -1,0 +1,14 @@
+name: Archived-Database
+title: Archived-Database
+username:
+account: sannehfoundation
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5024827
+bundleId: 6447624
+url: https://sannehfoundation.shinyapps.io/Archived-Database/
+when: 1666886612.52041
+lastSyncTime: 1666886612.52041
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 2021 YTD.Rmd|sanneh_foundation_final.Rmd
